@@ -3,8 +3,8 @@
 I am a seasoned iOS engineer who enjoys building things that support people to revisit and interact with their digital stuff.  
 Happy to be creating innovative apps for Apple platforms in this community since 2014.
 - 📚 Forever learning - Always slowly catching up with **Swift 6, and the latest iOS, macOS, watchOS, visionOS SDKs**
-- ✍🏻 Sometimes writing - Sharing articles from time to time on [Medium](https://medium.com/@skyjo3)
 - 🤝 Collaborative spirit - Looking forward to your PRs on the projects I maintain
+<!-- - ✍🏻 Sometimes writing - Sharing articles from time to time on [Medium](https://medium.com/@skyjo3) -->
 
 Feel free to reach out if you have any questions, or would like to work on something together 😃
 
